@@ -1,4 +1,4 @@
-# sportsNews-Wueh-
+# sportsNews-
 The word I can use for these is "Wueh!"
 Basically(I use this a lot to a point where I abuse it[sigh]), this application aims to provide a platform where members can share and read others' news and information. Made with a target focus on sports (The NFL; SIKE!!), it is heavily sports-themed but due to testing constraints, don't be surprised if you see news that is not sporty. I was just testing.
 Features include ability to type a message, verify your user identity specifications in order to post, read titles and identity specs of other authors and logging out.
